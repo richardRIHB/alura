@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="chrome" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" editBeforeRun="true" port="9229" restartOnDisconnect="true">
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" url="http://localhost:63342/mi_primera_pagina/index.html" />
+    </method>
+  </configuration>
+</component>
